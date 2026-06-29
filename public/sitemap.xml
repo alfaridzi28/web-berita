@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+    <loc>http://localhost</loc>
+    <lastmod>2026-06-29T16:07:43+00:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+            </url>
+    <url>
+    <loc>http://localhost/berita/pemerintah-luncurkan-program-digitalisasi-umkm</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>Pemerintah Luncurkan Program Digitalisasi UMKM Nasional 2025</image:caption>
+</image:image>
+        </url>
+    <url>
+    <loc>http://localhost/berita/ai-generatif-ubah-industri-kreatif</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>Teknologi AI Generatif Ubah Cara Kerja Industri Kreatif</image:caption>
+</image:image>
+        </url>
+    <url>
+    <loc>http://localhost/berita/bursa-saham-asia-menguat-data-ekonomi-as</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>Bursa Saham Asia Menguat Ditopang Data Ekonomi AS yang Positif</image:caption>
+</image:image>
+        </url>
+    <url>
+    <loc>http://localhost/berita/timnas-indonesia-menang-kualifikasi-piala-dunia</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>Timnas Indonesia Raih Kemenangan Dramatis di Kualifikasi Piala Dunia</image:caption>
+</image:image>
+        </url>
+    <url>
+    <loc>http://localhost/berita/ktt-g20-brasil-kesepakatan-pajak-global-miliarder</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>KTT G20 Brasil Hasilkan Kesepakatan Pajak Global untuk Miliarder</image:caption>
+</image:image>
+        </url>
+    <url>
+    <loc>http://localhost/berita/film-tanah-pusaka-5-juta-penonton</loc>
+    <lastmod>2026-06-29T15:58:59+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+    <image:caption>Film Indonesia &quot;Tanah Pusaka&quot; Tembus 5 Juta Penonton dalam Sepekan</image:caption>
+</image:image>
+        </url>
+</urlset>
